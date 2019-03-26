@@ -1,7 +1,7 @@
-beego-blue
+beego-MyBlog
 
 
-基于beego一步一步搭建blue
+基于beego一步一步搭建MyBlog
 
 前台基于 layui
 
